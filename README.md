@@ -1,1 +1,2 @@
 # Professional-Statement
+As a computer science student, I am enthusiastic about pursuing a career in the field of cybersecurity. I am tenacious, organised and highly motivated. I place a high value on continuous learning and growth in both my personal and professional life. Cybersecurity is a forever evolving field, which means there will always be something new to learn. Allowing me to proactively work on identifying potential threats, vulnerabilities, and prioritise security for organizations and people alike. 
